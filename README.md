@@ -1,16 +1,16 @@
 # Google Prompting Essentials Specialization
 
-This repository summaries from the **Google Prompting Essentials Specialization**, completed via Coursera under the Google Cloud program. The specialization explores the fundamentals of **Prompt Engineering**, a rapidly growing skillset intersecting AI, automation, and DevOps workflows.
+This repository summaries from the **Google Prompting Essentials Specialization**, completed via Coursera under the Google program. The specialization explores the fundamentals of **Prompt Engineering**, a rapidly growing skillset intersecting AI, automation, and Analyst workflows.
 
 ---
 
 ## 📌 About the Specialization
 
-The specialization consists of **4 modules**, each focused on building a deep understanding of how AI systems respond to structured prompts and how this applies to real-world developer workflows.
+The specialization consists of **4 modules**, each focused on building a deep understanding of how AI systems respond to structured prompts and how this applies to real-world workflows.
 
 **Platform:** Coursera  
-**Provider:** Google Cloud  
-**Credential:** [View Certification](https://www.coursera.org/account/accomplishments/specialization/Y6K56SVG21W2)
+**Provider:** Google  
+**Credential:** [View Certification](https://www.coursera.org/account/accomplishments/specialization/A35PHHMRNKJD)
 
 ---
 
@@ -20,7 +20,7 @@ Each folder contains:
 
 - A summary of key concepts
 - Practical insights and examples
-- Real-world relevance to DevOps and automation
+- Real-world relevance to Analyst and automation
 
 | Module | Title | Link |
 |--------|-------|------|
@@ -35,8 +35,8 @@ Each folder contains:
 
 - How LLMs interpret and tokenize inputs
 - Techniques to design effective prompts
-- Using AI tools in automation and infrastructure
-- Practical relevance for scripting and DevOps workflows
+- Using AI tools in daily routine task automation
+- Practical relevance for Analyst workflows
 
 ---
 
@@ -44,11 +44,10 @@ Each folder contains:
 
 If you find this helpful, feel free to star 🌟 the repo and connect with me:
 
-- 💼 [LinkedIn - Sufiyan Khan](https://linkedin.com/in/sufiyan-khan-cloud)
-- 🌐 [Portfolio](https://sufiyan-khan-portfolio.lovable.app)
+- 💼 [LinkedIn - Syed Khubaib Alam](https://linkedin.com/in/syed-khubaib-alam)
 
 ---
 
 ## 🛠️ License
 
-This content is for educational and professional learning use. All rights belong to respective owners (Google Cloud, Coursera).
+This content is for educational and professional learning use. All rights belong to respective owners (Google, Coursera).
