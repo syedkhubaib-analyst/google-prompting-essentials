@@ -1,6 +1,6 @@
 # Google Prompting Essentials Specialization
 
-This repository summaries from the **Google Prompting Essentials Specialization**, completed via Coursera under the Google program. The specialization explores the fundamentals of **Prompt Engineering**, a rapidly growing skillset intersecting AI, automation, and Analyst workflows.
+This repository summaries from the **Google Prompting Essentials** specialization, completed via Coursera under the Google program. The specialization explores the fundamentals of **Prompt Engineering**, a rapidly growing skillset intersecting AI, automation, and Analyst workflows.
 
 ---
 
@@ -8,9 +8,9 @@ This repository summaries from the **Google Prompting Essentials Specialization*
 
 The specialization consists of **4 modules**, each focused on building a deep understanding of how AI systems respond to structured prompts and how this applies to real-world workflows.
 
-**Platform:** Coursera  
-**Provider:** Google  
-**Credential:** [View Certification](https://www.coursera.org/account/accomplishments/specialization/A35PHHMRNKJD)
+- **Platform:** Coursera  
+- **Provider:** Google  
+- **Credential:** [View Certification](https://www.coursera.org/account/accomplishments/specialization/A35PHHMRNKJD)
 
 ---
 
