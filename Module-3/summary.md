@@ -6,7 +6,7 @@ Generative AI can help uncover insights in datasets by identifying patterns, con
 
 ## Prompting Strategies for Data Analysis
 
-### 1. **Align with Gen AI Capabilities**
+### **Align with Gen AI Capabilities**
 Design your prompts to suit what gen AI is good at:
 - **Text analysis**: Classify sentiment and themes in open-ended responses.
 - **Data augmentation**: Expand small datasets to simulate trends.
