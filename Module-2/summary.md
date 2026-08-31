@@ -1,11 +1,11 @@
-# Module 2 Summary: Design Prompts for Everyday Work Tasks
+# Module 2: Design Prompts for Everyday Work Tasks
 
-## 🎯 Key Concept
+## Key Concept
 Generative AI tools adapt to tone and style through **contextual understanding** and **user-driven prompts**. With the right instructions, these tools can match your desired communication style—be it professional, casual, persuasive, or academic.
 
 ---
 
-## 🧠 How Gen AI Handles Tone & Style
+## How Gen AI Handles Tone & Style
 
 ### Contextual Understanding
 AI tools interpret input based on:
@@ -18,7 +18,7 @@ These elements help determine the tone, style, and output, such as sounding like
 
 ---
 
-## 🛠️ Strategies to Match Tone & Style
+## Strategies to Match Tone & Style
 
 ### 1. **Specify Tone and Style**
 Be clear in your prompt. Instead of:
@@ -43,11 +43,11 @@ If the output isn't quite right:
 - Clarify emotional intent
 - Adjust specificity until it feels right
 
-> Always Be Iterating (ABI) — treat your prompt like a script for an actor!
+> Always Be Iterating (ABI), treat your prompt like a script for an actor!
 
 ---
 
-## 🧩 Why This Matters
+## Why This Matters
 
 The right tone ensures your message is:
 - **Understood** by the intended audience
@@ -58,7 +58,7 @@ Prompting tone/style correctly = better communication with AI.
 
 ---
 
-## 🚀 Gemini for Google Workspace
+## Gemini for Google Workspace
 
 Gemini enhances tools like Gmail, Docs, Sheets, Slides, and Meet. Use it to:
 - Summarize and extract insights
@@ -71,7 +71,7 @@ You can interact directly with Gemini using the “Help me write” or “Ask Ge
 
 ---
 
-## 📝 Summarization Best Practices
+## Summarization Best Practices
 
 To get better summaries:
 - **Task**: Be specific (length, format, tone, audience)
@@ -82,7 +82,7 @@ To get better summaries:
 
 ---
 
-## 📏 Long Context Windows & Token Limits
+## Long Context Windows & Token Limits
 
 Modern AI tools support more **tokens**, letting you input longer documents and still get meaningful summaries.
 
@@ -94,9 +94,9 @@ Modern AI tools support more **tokens**, letting you input longer documents and 
 
 ---
 
-## ✅ Final Tip
+## Final Thought
 
-Treat AI like a smart assistant. Be clear, provide examples, iterate, and guide it toward your voice. The more context you give, the better the AI can perform.
+As an analyst, tone and clarity are part of your deliverable; not an afterthought. Specify your audience, purpose, and format every time, and refine until the output matches your voice. Precision in prompting means precision in communication. 
 
 ---
 
