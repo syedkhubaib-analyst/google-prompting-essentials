@@ -75,7 +75,7 @@ You can interact directly with Gemini using the “Help me write” or “Ask Ge
 
 To get better summaries:
 - **Task**: Be specific (length, format, tone, audience)
-- **Context**: Explain the purpose (e.g., team briefing)
+- **Context**: Explain the purpose (e.g: team briefing)
 - **References**: Add a sample summary if available
 - **Evaluate**: Check the output for accuracy and relevance
 - **Iterate**: Refine your prompt if needed
