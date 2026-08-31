@@ -4,24 +4,24 @@ Generative AI can help uncover insights in datasets by identifying patterns, con
 
 ---
 
-## 🔹 Prompting Strategies for Data Analysis
+## Prompting Strategies for Data Analysis
 
 ### 1. **Align with Gen AI Capabilities**
 Design your prompts to suit what gen AI is good at:
-- **Text analysis** – Classify sentiment and themes in open-ended responses.
-- **Data augmentation** – Expand small datasets to simulate trends.
-- **Q&A with data** – Ask direct questions in plain language (e.g., "Were Q2 sales up?").
-- **Scenario analysis** – Predict outcomes based on past data.
-- **Visual/image analysis** – Extract insights from charts or images.
-- **Market/customer research** – Summarize trends from surveys and social media.
+- **Text analysis**: Classify sentiment and themes in open-ended responses.
+- **Data augmentation**: Expand small datasets to simulate trends.
+- **Q&A with data**: Ask direct questions in plain language (e.g., "Were Q2 sales up?").
+- **Scenario analysis**: Predict outcomes based on past data.
+- **Visual/image analysis**: Extract insights from charts or images.
+- **Market/customer research**: Summarize trends from surveys and social media.
 
-🛑 Avoid expecting rigorous statistical or highly structured data analysis directly from gen AI. Instead, prompt it to suggest appropriate tools or methods.
+>  "Avoid expecting rigorous statistical or highly structured data analysis directly from gen AI. Instead, prompt it to suggest appropriate tools or methods."
 
 ---
 
-## 🔹 Preparing Your Dataset
+## Preparing Your Dataset
 
-> ✨ "Your output is only as good as your input."
+>  "Your output is only as good as your input."
 
 Before using gen AI:
 - **Validate and clean your data**  
@@ -31,7 +31,7 @@ Before using gen AI:
 
 ---
 
-## 🔹 Encourage Exploration
+## Encourage Exploration
 
 Gen AI works best when given **open-ended prompts** that allow it to surface unexpected patterns.
 
@@ -42,7 +42,7 @@ Keep your prompts broad and curiosity-driven.
 
 ---
 
-## 🔹 Use Embedded Gen AI Tools
+## Use Embedded Gen AI Tools
 
 Many tools embed AI for direct data interaction:
 
@@ -58,7 +58,7 @@ Example prompt in Google Sheets:
 
 ---
 
-## 🔹 Decipher Complex Content with Gen AI
+## Decipher Complex Content with Gen AI
 
 Gen AI can help you understand confusing material by translating, simplifying, or explaining it:
 
@@ -70,32 +70,34 @@ Gen AI can help you understand confusing material by translating, simplifying, o
 
 ---
 
-## 🔹 Fine-Tune AI Outputs with Settings
+## Fine-Tune AI Outputs with Settings
 
 Some platforms let you adjust generation settings:
 
-### 🎛 Temperature (Creativity)
+### Temperature (Creativity)
 - **Low (0.1–0.4)**: Factual and consistent (e.g., reports, code)
 - **High (0.8–1.0)**: Creative and diverse (e.g., brainstorming)
 
-### 🎛 Top-k and Top-p (Focus controls)
+### Top-k and Top-p (Focus controls)
 - **Top-k**: AI chooses from top K most likely words.
 - **Top-p**: AI chooses from a dynamic probability-based pool.
 
-🔸 Use **top-p = 0.9–0.95** for creativity, leave **top-k** at default.
+ >  "Use **top-p = 0.9–0.95** for creativity, leave **top-k** at default."
 
 ---
 
-## ✅ Key Takeaways
+## Key Takeaways
 
 - Always validate data before analysis.
 - Use gen AI tools based on their strengths, and design prompts accordingly.
 - Keep prompts open-ended for better insights.
-- Use embedded AI tools like Gemini or Tableau when available.
+- Use embedded AI tools like Gemini when available.
 - Fine-tune AI output using temperature, top-p, and top-k.
 - Evaluate all AI outputs, especially when dealing with unfamiliar content or critical data.
 
 ---
 
-By thoughtfully prompting and understanding your tools, gen AI can help you unlock powerful data-driven insights.
+## Final Thought
+
+As an analyst, the quality of your prompts determines the quality of your insights. Prompt thoughtfully, understand your tools, and gen AI becomes a powerful partner in uncovering what your data has to say.
 
