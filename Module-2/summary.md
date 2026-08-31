@@ -1,7 +1,7 @@
 # Module 2: Design Prompts for Everyday Work Tasks
 
 ## Key Concept
-Generative AI tools adapt to tone and style through **contextual understanding** and **user-driven prompts**. With the right instructions, these tools can match your desired communication style—be it professional, casual, persuasive, or academic.
+Generative AI tools adapt to tone and style through **contextual understanding** and **user-driven prompts**. With the right instructions, these tools can match your desired communication style; be it professional, casual, persuasive, or academic.
 
 ---
 
@@ -10,7 +10,7 @@ Generative AI tools adapt to tone and style through **contextual understanding**
 ### Contextual Understanding
 AI tools interpret input based on:
 - **Audience awareness**
-- **Linguistic cues** (e.g., punctuation)
+- **Linguistic cues** (e.g: punctuation)
 - **User preferences**
 - **Reference examples**
 
@@ -43,7 +43,7 @@ If the output isn't quite right:
 - Clarify emotional intent
 - Adjust specificity until it feels right
 
-> Always Be Iterating (ABI), treat your prompt like a script for an actor!
+> Always Be Iterating, treat your prompt like a script for an actor!
 
 ---
 
