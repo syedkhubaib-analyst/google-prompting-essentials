@@ -1,6 +1,6 @@
-# 📘 Module 1 Summary – Start Writing Prompts Like a Pro
+# Module 1: Start Writing Prompts Like a Pro
 
-## 🧠 Course Overview
+## Course Overview
 - Learn how to write clear and effective prompts for generative AI tools.
 - Master a **5-step prompting framework**.
 - Practice through videos, readings, and activities.
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Why Prompting Skills Matter
+## Why Prompting Skills Matter
 - Generative AI (gen AI) creates content (text, images, audio, etc.) based on prompts.
 - Good prompts help you:
   - Work faster and more creatively.
@@ -17,7 +17,7 @@
 
 ---
 
-## 📚 Course Structure
+## Course Structure
 - **4 learning modules:**
   1. Prompting framework (this module)
   2. Prompting for work tasks
@@ -28,7 +28,7 @@
 
 ---
 
-## 🖼️ Introduction to Multimodal Prompting
+## Introduction to Multimodal Prompting
 - **Multimodal = using multiple input types (text, image, audio, etc.)**
 - Examples:
   - Generate a poem using a sunset photo.
@@ -38,7 +38,7 @@
 
 ---
 
-## 🧰 Using the Prompting Framework (Text + Multimodal)
+## Using the Prompting Framework (Text + Multimodal)
 
 **T - Task**  
 Be clear about what you want and how each input (text, image, audio) should be used.
@@ -61,43 +61,43 @@ Improve the prompt using one of these strategies:
 
 ---
 
-## 🧭 Tips for Responsible Prompting
+## Tips for Responsible Prompting
 
-### ⚖️ Ethical Considerations
+### Ethical Considerations
 - AI can generate biased or false results. Always **review before using**.
-- Keep a **human-in-the-loop**—you’re the final decision-maker.
+- Keep a **human-in-the-loop**; you’re the final decision-maker.
 
-### 💬 Combatting Bias & Stereotypes
+### Combatting Bias & Stereotypes
 - Use **inclusive language** (e.g., “foods from around the world”).
 - If biased output appears, **point it out and refine your prompt**.
 - Diversity improves both ethics and quality.
 
-### 🧠 Handling AI Hallucinations
+### Handling AI Hallucinations
 - **Hallucination** = false information.
 - Use **clear inputs** and **fact-check** outputs.
 - Try asking the same prompt in different ways or tools.
 
-### 🔁 Dealing with Misunderstandings
+### Dealing with Misunderstandings
 - Avoid slang or unclear phrases (e.g., don’t say "think outside the box").
 - Instead, use literal and precise language ("suggest creative solutions").
 
 ---
 
-## 🏢 Using AI at Work: Key Considerations
+## Using AI at Work: Key Considerations
 - Know your company’s **AI usage policies**.
 - Be mindful of **data privacy** and **security**.
 - Always **review, disclose, and get approvals** before sharing AI-generated work.
 
 ---
 
-## ✅ Responsible AI Use Checklist
-- ✔️ Get approval before using AI at work.
-- ✔️ Use internal tools when handling sensitive data.
-- ✔️ Always review before sharing.
-- ✔️ Be transparent about AI involvement.
-- ✔️ Periodically **clear AI memory** for privacy and accuracy.
+## Responsible AI Use Checklist
+-  Get approval before using AI at work.
+-  Use internal tools when handling sensitive data.
+-  Always review before sharing.
+-  Be transparent about AI involvement.
+-  Periodically **clear AI memory** for privacy and accuracy.
 
 ---
 
-## 🧑‍🎨 Final Thought
-You're the creative mind. The AI tool is just a brush. The more clearly you communicate, the better results you'll get. Keep experimenting, thinking critically, and refining your approach.
+## Final Thought
+As an analyst, you bring the domain knowledge, judgment, and context, the AI tool is just a brush. The more clearly you communicate your task, context, and constraints, the better and more trustworthy your results will be. Keep experimenting, validating your outputs, and refining your prompting approach.
